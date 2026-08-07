@@ -2,41 +2,109 @@
 
 ## Overview
 
-The Python Cybersecurity Toolkit is a security automation project developed by Ronneltech Ltd.
+The Python Cybersecurity Toolkit is a cybersecurity automation project developed by Ronneltech Ltd.
 
-The toolkit demonstrates practical applications of Python programming in cybersecurity operations, including security analysis, monitoring, and reporting.
+This project demonstrates practical applications of Python programming in cybersecurity operations, including security analysis, automation, monitoring, and reporting.
 
----
-
-# Features
-
-## Network Port Scanner
-
-A tool designed to analyze network ports and demonstrate basic network security concepts.
+The toolkit was created to demonstrate how programming skills can support cybersecurity tasks and improve security workflows.
 
 ---
 
-## Password Strength Analyzer
+# Project Purpose
 
-Evaluates password strength and promotes better password security practices.
+The purpose of this project is to combine Python development and cybersecurity knowledge to create practical security tools.
 
----
+The project demonstrates fundamental cybersecurity concepts including:
 
-## File Integrity Checker
-
-Uses cryptographic hashing concepts to identify file changes and support integrity monitoring.
-
----
-
-## Log Analysis Utility
-
-Analyzes security logs to identify suspicious events and potential security concerns.
+- Network security
+- Password security
+- File integrity monitoring
+- Security log analysis
+- Automated security reporting
 
 ---
 
-## Security Report Generator
+# Tools Included
 
-Creates structured cybersecurity reports based on assessment findings.
+## 1. Network Port Scanner
+
+A Python-based tool that scans network ports to identify open and closed services.
+
+**Skills Demonstrated:**
+
+- Network security concepts
+- Port analysis
+- Python socket programming
+
+---
+
+## 2. Password Strength Analyzer
+
+A security tool that evaluates password strength using complexity checks and provides recommendations for improving password security.
+
+**Skills Demonstrated:**
+
+- Password security
+- Security awareness
+- Python programming
+
+---
+
+## 3. File Integrity Checker
+
+A tool that uses cryptographic hashing techniques to detect unauthorized file modifications.
+
+**Skills Demonstrated:**
+
+- File integrity monitoring
+- Hashing concepts
+- Security automation
+
+---
+
+## 4. Security Log Analyzer
+
+A tool designed to review log files and identify suspicious security-related events.
+
+**Skills Demonstrated:**
+
+- Log analysis
+- Security monitoring
+- Threat identification
+
+---
+
+## 5. Security Report Generator
+
+A tool that creates structured cybersecurity reports based on security findings and recommendations.
+
+**Skills Demonstrated:**
+
+- Security documentation
+- Report automation
+- Technical writing
+
+---
+
+# Project Structure
+python-cybersecurity-toolkit
+
+├── documentation
+│ ├── project_overview.md
+│ └── project_completion.md
+│
+├── reports
+│ └── sample_security_report.txt
+│
+├── tools
+│ ├── file_integrity_checker.py
+│ ├── log_analyzer.py
+│ ├── password_checker.py
+│ ├── port_scanner.py
+│ └── security_report_generator.py
+│
+├── README.md
+└── requirements.txt
 
 ---
 
@@ -44,54 +112,32 @@ Creates structured cybersecurity reports based on assessment findings.
 
 - Python Programming
 - Cybersecurity Automation
-- Network Security Concepts
-- Security Monitoring
+- Network Security
+- Vulnerability Analysis
+- Password Security
 - File Integrity Monitoring
+- Security Log Analysis
+- Security Reporting
 - Technical Documentation
 
 ---
 
-# Project Purpose
+# Requirements
 
-This project demonstrates how Python can be applied to cybersecurity tasks and security operations.
+- Python 3.x
+- No external packages required
+- Uses Python standard libraries only
 
 ---
 
-# Developed By
+# Developer
 
 MAITLAN AJONG ASONG
 
 Founder — Ronneltech Ltd
-# Project Completion Report
 
-## Project
+---
 
-Python Cybersecurity Toolkit
-
-## Developed By
-
-MAITLAN AJONG ASONG  
-Founder — Ronneltech Ltd
-
-## Completed Features
-
-✓ Network Port Scanner
-
-✓ Password Strength Analyzer
-
-✓ File Integrity Checker
-
-✓ Security Log Analyzer
-
-✓ Security Report Generator
-
-## Skills Demonstrated
-
-- Python Development
-- Cybersecurity Automation
-- Security Analysis
-- Technical Reporting
-
-## Project Status
+# Project Status
 
 Completed and published as part of the Ronneltech Ltd cybersecurity portfolio.
